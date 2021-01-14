@@ -1,9 +1,13 @@
 #執行前準備
-1.Python 環境/
-2.pip 10.0.0/
-3.pip install jupyter notebook  ，一個讓你可以寫code的工具/
-4.pip install requests  ,對網路發動請求的套件，可實作對網頁做get、post等HTTP協定的行為/
-5.pip install beautifulsoup4  ,借助網頁的結構特性來解析網頁的工具/
+1.Python 環境
+
+2.pip 10.0.0
+
+3.pip install jupyter notebook  ，一個讓你可以寫code的工具
+
+4.pip install requests  ,對網路發動請求的套件，可實作對網頁做get、post等HTTP協定的行為
+
+5.pip install beautifulsoup4  ,借助網頁的結構特性來解析網頁的工具
 
 補:本人使用Amaconda 3 (有包含以上套件，所以沒有而外下載)
 

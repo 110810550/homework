@@ -12,5 +12,5 @@ for s in sel:
 ```````
 
 #執行結果
-![image](./1.)
+![image](./1.png)
 
